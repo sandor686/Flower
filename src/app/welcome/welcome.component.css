@@ -1,0 +1,15 @@
+
+
+a{
+    color:orange;
+    text-decoration: none;
+}
+.container-fluid{
+    margin-top: 40px;
+}
+p{
+    font-size: 1.2rem;
+}
+h1{
+    font-style: italic;
+}
